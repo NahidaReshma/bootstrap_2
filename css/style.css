@@ -1,0 +1,31 @@
+body{
+	margin: 3%;
+}
+h1{
+	color: green;
+	font-size: 70px;
+	text-align: center;
+}
+h2{
+	color: white;
+	font-size: 50px;
+	text-align: center;
+}
+h3{
+	color: white;
+	font-size: 30px;
+	text-align: center;
+}
+.container{
+	background-color: lightgray;
+	margin-bottom: 20px;
+}
+.box{
+	background-color: green;
+	min-height: 100px;
+	margin-bottom: 10px;
+}
+.col{
+	border: solid black 2px;
+	min-height: 50px;
+}
